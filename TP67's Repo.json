@@ -1,0 +1,50 @@
+{
+  "name": "TP67's Repo",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you can find all the simulator apps to al least to make you have a taste of OSses.",
+  "iconURL": "https://i.imgur.com/miq2AVV.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#002bff",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Win11Mobile",
+      "bundleIdentifier": "com.myapp",
+      "marketplaceID": "",
+      "developerName": "       ",
+      "subtitle": "    ",
+      "localizedDescription": "Get a taste of Windows 11 on your iPhone",
+      "iconURL": "https://i.imgur.com/tX72xp7.png",
+      "tintColor": "#009dff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Allow Win11Mobile to access your camera",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow Win11Mobile to access your location",
+          "NSLocationAlwaysUsageDescription": "Allow Win11Mobile to access your location",
+          "NSLocationWhenInUseUsageDescription": "Allow Win11Mobile to access your location",
+          "NSMicrophoneUsageDescription": "Allow Win11Mobile to access your microphone",
+          "NSPhotoLibraryUsageDescription": "Allow Win11Mobile to access your photos"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "TP67's First Repo",
+      "identifier": "news_dekaw15qho",
+      "caption": "Introducing my OS Simulator Repo so you can get a taste of OS's on your iPhone with no ads.",
+      "date": "2026-02-10T18:26",
+      "tintColor": "#5677e2",
+      "imageURL": "https://i.imgur.com/tX72xp7.png",
+      "notify": true,
+      "url": "",
+      "appID": null
+    }
+  ]
+}
