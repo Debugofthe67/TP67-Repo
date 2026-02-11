@@ -3,23 +3,35 @@
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you can find all the simulator apps to al least to make you have a taste of OSses.",
   "iconURL": "https://i.imgur.com/miq2AVV.png",
-  "website": "https://debugofthe67.github.io",
+  "website": "https://youtube.com/@TPisacodefan/",
   "patreonURL": "",
   "tintColor": "#002bff",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.myapp"
+  ],
   "apps": [
     {
       "name": "Win11Mobile",
       "bundleIdentifier": "com.myapp",
       "marketplaceID": "",
-      "developerName": "       ",
+      "developerName": "TP67       ",
       "subtitle": "  Windows 11 in your pocket  ",
       "localizedDescription": "Get a taste of Windows 11 on your iPhone",
-      "iconURL": "https://i.imgur.com/tX72xp7.png",
-      "tintColor": "#009dff",
+      "iconURL": "https://i.imgur.com/IAhqwep.png",
+      "tintColor": "#3470ca",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Debugofthe67/win11simu/releases/download/releases/win11mobileunsigned.ipa",
+          "size": 26300000,
+          "version": "1.0.0",
+          "buildVersion": "",
+          "date": "2026-02-11T07:12:00-06:00",
+          "localizedDescription": "First Release!!!",
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
